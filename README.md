@@ -8,9 +8,9 @@ How To Install:
 
 1)Make sure you have Java 8 installed (newer versions will probably death, and only 8 is supported)
 
-2A)If you are using a version, in-20200727 or older: download ModLoader: [https://mcarchive.net/mods/modloader?gvsn=](url)
+2A)If you are using a version, in-20200727 or older: download ModLoader: https://mcarchive.net/mods/modloader?gvsn=
 
-2B)If you are using a version, 1.3 TEST BUILD 1 or newer and not using MultiMC: download Forge: [https://files.minecraftforge.net/net/minecraftforge/forge/index_1.2.5.html](url)
+2B)If you are using a version, 1.3 TEST BUILD 1 or newer and not using MultiMC: download Forge: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.2.5.html
 
 2C)If you are using multimc, click "Install Forge" on a Minecraft 1.2.5 instance
 
