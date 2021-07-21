@@ -21,3 +21,5 @@ LATEST ALPHA VERSION: 1.3.0 snap-20210716
 LATEST BETA VERSION: Indev 20200727
 
 LATEST FULL VERSION: Alpha 0.13_04-2
+
+Discord Server Link: https://discord.gg/9KUj5sv5Bh
