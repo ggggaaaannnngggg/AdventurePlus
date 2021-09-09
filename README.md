@@ -16,10 +16,4 @@ How To Install:
 
 3)Add the loader you just downloaded (if you did not follow step 2C) to minecraft.jar, THEN add Adventure+ to minecraft.jar. 
 
-LATEST ALPHA VERSION: 1.3.0 snap-20210716
-
-LATEST BETA VERSION: Indev 20200727
-
-LATEST FULL VERSION: Alpha 0.13_04-2
-
 Discord Server Link: https://discord.gg/9KUj5sv5Bh
