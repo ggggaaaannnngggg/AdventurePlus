@@ -12,8 +12,10 @@ How To Install:
 
 2B)If you are using a version, 1.3 TEST BUILD 1 or newer and not using MultiMC: download Forge: https://files.minecraftforge.net/net/minecraftforge/forge/index_1.2.5.html
 
-2C)If you are using multimc, click "Install Forge" on a Minecraft 1.2.5 instance
+2C)If you are using a version, 1.3 TEST BUILD 1 or newer and are using MultiMC, click "Install Forge" on a Minecraft 1.2.5 instance
 
 3)Add the loader you just downloaded (if you did not follow step 2C) to minecraft.jar, THEN add Adventure+ to minecraft.jar. 
 
 Discord Server Link: https://discord.gg/9KUj5sv5Bh
+
+NOTE: For some reason, github randomly started to sort release tags alphabetically, so when looking for the latest release, use the tabs tag and not the releases tag.
