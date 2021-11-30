@@ -18,4 +18,4 @@ How To Install:
 
 Discord Server Link: https://discord.gg/9KUj5sv5Bh
 
-NOTE: For some reason, github randomly started to sort release tags alphabetically, so when looking for the latest release, use the tags tab and not the releases tab.
+NOTE: For some reason, github randomly started to sort releases by tags alphabetically, so the order they appear in the releases tab does not reflect the order they were released.
