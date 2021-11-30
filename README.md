@@ -1,7 +1,6 @@
 # AdventurePlus
 
-This is my mod for Minecraft 1.2.5 that expands minecraft in a direction I think would be better than what modern Minecraft did. This intro will be expanded soontm.
-
+Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update to become my ideal version of modern Minecraft. Currently undergoing a rewrite to clean up the codebase and cut some content that does not fit the current vision of the mod.
 
 How To Install:
 
