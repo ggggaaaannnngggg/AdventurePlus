@@ -6,7 +6,7 @@ This is my mod for Minecraft 1.2.5 that expands minecraft in a direction I think
 How To Install:
 
 
-1)Make sure you have Java 8 installed (newer versions will probably death, and only 8 is supported)
+1)Make sure you have Java 8` update 291 at latest installed (newer versions tend to have problems with ModLoader/Forge and recent Java 8 updates have been found to be unstable). Java 5 - 7 will probably work but only 8 under and including update 291 is supported. Support for newer Java versions is planned.
 
 2A)If you are using a version, in-20200727 or older: download ModLoader: https://mcarchive.net/mods/modloader?gvsn=
 
