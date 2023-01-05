@@ -14,14 +14,14 @@ How to Install (MultiMC or Prism Launcher):
 
 How to Install (Betacraft):
 
--Open mods repository.
--Select the desired Adventure+ version.
--Play!
+1) Open mods repository.
+2) Select the desired Adventure+ version.
+3) Play!
 
 How to Install (Historical Versions):
 
--Historical versions use Forge or ModLoader.
--If you are using Adventure+ 0.2 - 0.13_04 or Adventure+ Indev, add ModLoader (https://mcarchive.net/mods/modloader?gvsn=) before adding the mod.
--If you are using Adventure+ 1.3 TEST BUILD 1 - 1.3.0 snap-20211205, click install Forge in MultiMC or Prism Launcher.
+1) Historical versions use Forge or ModLoader.
+2) If you are using Adventure+ 0.2 - 0.13_04 or Adventure+ Indev, add ModLoader (https://mcarchive.net/mods/modloader?gvsn=) before adding the mod.
+3) If you are using Adventure+ 1.3 TEST BUILD 1 - 1.3.0 snap-20211205, click install Forge in MultiMC or Prism Launcher.
 
 Discord Server Link: https://discord.gg/9KUj5sv5Bh
