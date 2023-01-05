@@ -14,7 +14,9 @@ How to Install (MultiMC or Prism Launcher):
 
 How to Install (Betacraft):
 
--soontm
+-Open mods repository.
+-Select the desired Adventure+ version.
+-Play!
 
 How to Install (Historical Versions):
 
