@@ -7,10 +7,10 @@ Supported Java: 8+
 
 How to Install (MultiMC or Prism Launcher):
 
--Create an instance of Minecraft 1.2.5
--Click add to jar and select the Adventure+ zip.
--Recommended RAM allocation is 1024 MB.
--Enjoy!
+1) Create an instance of Minecraft 1.2.5
+2) Click add to jar and select the Adventure+ zip.
+3) Recommended RAM allocation is 1024 MB.
+4) Enjoy!
 
 How to Install (Betacraft):
 
