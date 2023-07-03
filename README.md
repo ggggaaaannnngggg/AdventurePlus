@@ -2,6 +2,7 @@
 
 Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update to become my ideal version of modern Minecraft.
 
+
 Features:
 
 -Overhauled world generation: Explore a variety of terrain generation up to y = 256 (192 blocks above sea level) with mountain ranges, plains, rolling hills, oceans, plateaus, islands etc.
@@ -21,6 +22,7 @@ Features:
 -Finished colored wood types including stairs, slabs, pressure plates, and bookshelves.
 
 -Brighter feel and Beta textures.
+
 
 Supported Launchers: MultiMC, Prism Launcher, Betacraft.
 Supported Java: 8+
