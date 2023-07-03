@@ -2,7 +2,6 @@
 
 Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update to become my ideal version of modern Minecraft. This is just a place to host releases for now, the actual repo is private because it contains decompiled mc code.
 
-
 Features:
 
 -Overhauled world generation: Explore a variety of terrain generation up to y = 256 (192 blocks above sea level) with mountain ranges, plains, rolling hills, oceans, plateaus, islands etc.
@@ -24,6 +23,7 @@ Features:
 -Brighter feel and Beta textures.
 
 Planned Features:
+
 -Seasons and weather overhaul.
 
 -Material-based enchanting. Find magic items to enchant tools with instead of xp.
