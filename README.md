@@ -18,7 +18,7 @@ Features:
 
 -New blocks including ceramic, dyed bricks, redstone glass lamps, redstone surface lamps and candles.
 
--Finished colored wood types including stairs, slabs, pressure plates, fences, and bookshelves.
+-Finished colored wood types including stairs, slabs, pressure plates, fences, fence gates, and bookshelves.
 
 -Brighter feel and Beta textures.
 
