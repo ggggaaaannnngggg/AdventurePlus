@@ -8,7 +8,7 @@ Features:
 
 -New biome system similar to beta's system but with much more capability, being able to depend on terrain generation noise and also alter terrain generation. Also variates decoration with noise which produces more unique environments everywhere you go.
 
--Micromanagement-free Stamina system for sprinting as well as Hunger and Classic (no hunger or stamina) if you don't want that.
+-Micromanagement-free Stamina system for sprinting as well as Hunger and Classic (no hunger or stamina) game types if you don't want that.
 
 -New world types and themes similar to Indev.
 
