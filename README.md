@@ -10,7 +10,7 @@ Features:
 -New world types and themes similar to Indev.
 -Singleplayer commands
 -Lightmap customization and paged video settings.
--New blocks including ceramic, dyed bricks, redstone glass lamps, redstone surface lamps and candles.
+-New blocks including ceramic, dyed bricks, redstone glass lamps, redstone surface lamps and candles
 -Finished colored wood types including stairs, slabs, pressure plates, and bookshelves.
 -Brighter feel and Beta textures.
 
