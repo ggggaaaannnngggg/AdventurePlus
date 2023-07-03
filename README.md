@@ -1,6 +1,6 @@
 # AdventurePlus
 
-Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update to become my ideal version of modern Minecraft.
+Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update to become my ideal version of modern Minecraft. This is just a place to host releases for now, the actual repo is private because it contains decompiled mc code.
 
 
 Features:
