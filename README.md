@@ -23,6 +23,18 @@ Features:
 
 -Brighter feel and Beta textures.
 
+Planned Features:
+-Seasons and weather overhaul.
+
+-Material-based enchanting. Find magic items to enchant tools with instead of xp.
+
+-More structures/bosses to adventure to (can tie in with material system).
+
+-Corlored lighting (as in different blocks can have different colors).
+
+-New Implementation of rivers.
+
+-Possibly cubic chunks/extended world height and some things to tie in with that such as skylands or more to explore underground.
 
 Supported Launchers: MultiMC, Prism Launcher, Betacraft.
 Supported Java: 8+
