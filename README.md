@@ -22,6 +22,8 @@ Features:
 
 -Brighter feel and Beta textures.
 
+-New Implementation of rivers.
+
 Planned Features:
 
 -Seasons and weather overhaul.
@@ -32,12 +34,10 @@ Planned Features:
 
 -Corlored lighting (as in different blocks can have different colors).
 
--New Implementation of rivers.
-
 -Possibly cubic chunks/extended world height and some things to tie in with that such as skylands or more to explore underground.
 
 Supported Launchers: MultiMC, Prism Launcher, Betacraft.
-Supported Java: 8+
+Supported Java: 6+
 
 How to Install (MultiMC or Prism Launcher):
 
