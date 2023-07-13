@@ -36,7 +36,7 @@ Planned Features:
 
 -Possibly cubic chunks/extended world height and some things to tie in with that such as skylands or more to explore underground.
 
-Supported Launchers: MultiMC, Prism Launcher, Betacraft.
+Supported Launchers: MultiMC, Prism Launcher, Betacraft, Codex-Ipsa.
 Supported Java: 6+
 
 How to Install (MultiMC or Prism Launcher):
@@ -48,9 +48,18 @@ How to Install (MultiMC or Prism Launcher):
 
 How to Install (Betacraft):
 
-1) Open mods repository.
-2) Select the desired Adventure+ version.
-3) Play!
+1) Go to Edit instance.
+2) Open mods repository.
+3) Select the desired Adventure+ version.
+4) Play!
+
+How to Install (Codex-Ipsa):
+
+1) Go to Edit profile
+2) Go to the Mods tab.
+3) Open mod repositories.
+4) Select the desired Adventure+ version.
+5) Play!
 
 How to Install (Historical Versions):
 
