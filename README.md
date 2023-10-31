@@ -1,6 +1,8 @@
 # AdventurePlus
 
-Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update to become my ideal version of modern Minecraft. This is just a place to host releases for now, the actual repo is private because it contains decompiled mc code.
+Adventure+ is a 1.2.5 mod I have been working on sporadically since April 2020, with the goal of expanding on, improving and overhauling Minecraft shortly after the Adventure Update. This is just a place to host releases for now, the actual repo is private because it contains decompiled mc code.
+
+Discord Server Link: https://discord.gg/9KUj5sv5Bh
 
 Features:
 
@@ -37,7 +39,7 @@ Planned Features:
 -Possibly cubic chunks/extended world height and some things to tie in with that such as skylands or more to explore underground.
 
 Supported Launchers: MultiMC, Prism Launcher, Betacraft, Codex-Ipsa.
-Supported Java: 6+
+Supported Java: 5+
 
 How to Install (MultiMC or Prism Launcher):
 
@@ -67,4 +69,16 @@ How to Install (Historical Versions):
 2) If you are using Adventure+ 0.2 - 0.13_04 or Adventure+ Indev, add ModLoader (https://mcarchive.net/mods/modloader?gvsn=) before adding the mod.
 3) If you are using Adventure+ 1.3 TEST BUILD 1 - 1.3.0 snap-20211205, click install Forge in MultiMC or Prism Launcher.
 
-Discord Server Link: https://discord.gg/9KUj5sv5Bh
+Credits:
+
+ggggaaaannnngggg - Lead Developer
+
+GenericPnPMonitor - Developer
+
+icanttellyou - Contributor and Moderator
+
+DEJVOSS - Moderator
+
+Armolitskiy - Stanima bar texture
+
+Mojang - Minecraft 1.2.5
