@@ -75,10 +75,12 @@ ggggaaaannnngggg - Lead Developer
 
 GenericPnPMonitor - Developer
 
-icanttellyou - Contributor and Moderator
+icanttellyou - Moderator and Contributor
 
-DEJVOSS - Moderator
+DEJVOSS - Moderator and Codex-Ipsa launcher
 
 Armolitskiy - Stanima bar texture
 
 Mojang - Minecraft 1.2.5
+
+Moresteck - Betacraft launcher and proxy
